@@ -4,7 +4,8 @@
 
 **Craft multi-platform CLI apps in .NET, from coding and testing to deployment**
 
-TODO update to newer version of commandline library
+TODO: Update to newer version of commandline library
+https://learn.microsoft.com/en-us/dotnet/standard/commandline/migration-guide-2.0.0-beta5
 
 
 
